@@ -1,0 +1,20 @@
+{
+  "name": "self-project",
+  "version": "1.0.0",
+  "description": "Portfolio website built with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "portfolio",
+    "web"
+  ],
+  "author": "Kiki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
