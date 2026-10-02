@@ -24,7 +24,7 @@ app.get('/api', (req, res) => {
   res.json({ 
     message: 'Portfolio API', 
     version: '1.0.0',
-    author: 'Kiki'
+    author: 'Dhatu Kertayuga'
   });
 });
 

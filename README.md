@@ -8,7 +8,7 @@ The layout comes from the "Portfolio Landing Page" design, re-themed with a whit
 - White and blue-tinted neutral background with a blue accent (`#1F6FEB`) and a cyan secondary (`#00A8CC`)
 - Faint blueprint grid and soft blue glow behind the page
 - Space Grotesk headings, Work Sans body, JetBrains Mono for labels, chips and code-style details (Google Fonts)
-- Sticky, blurred navigation bar with a `~/Kiki` brand and blinking cursor
+- Sticky, blurred navigation bar with a `~/Dhatu` brand and blinking cursor
 - Terminal-style card in the home hero
 - Two-column sections: a small mono `//` label on the left, content on the right
 - White cards with hairline blue borders and a glowing hover state

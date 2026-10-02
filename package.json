@@ -12,7 +12,7 @@
     "portfolio",
     "web"
   ],
-  "author": "Kiki",
+  "author": "Dhatu Kertayuga",
   "license": "ISC",
   "dependencies": {
     "express": "^4.22.2"
