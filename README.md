@@ -4,16 +4,14 @@ A white-and-blue, tech-styled portfolio website (home page + projects page) serv
 
 ## Design
 
-The layout comes from the "Portfolio Landing Page" design, re-themed with a white/blue tech look:
-- White and blue-tinted neutral background with a blue accent (`#1F6FEB`) and a cyan secondary (`#00A8CC`)
-- Faint blueprint grid and soft blue glow behind the page
-- Space Grotesk headings, Work Sans body, JetBrains Mono for labels, chips and code-style details (Google Fonts)
-- Sticky, blurred navigation bar with a `~/Dhatu` brand and blinking cursor
-- Terminal-style card in the home hero
-- Two-column sections: a small mono `//` label on the left, content on the right
-- White cards with hairline blue borders and a glowing hover state
-- Dark navy contact band and footer with a grid pattern
-- Responsive, with breakpoints at 900px and 720px
+"Mission Control, Light", a satellite-themed take on a clean light layout:
+- Cool grey background (`#E9ECF1`) with a faint 48px grid, white rounded modules and one orange accent (`#FF5B2E`)
+- IBM Plex Sans for text, IBM Plex Mono for labels, tags and navigation (Google Fonts)
+- Sticky, blurred navigation with a `DHATU//SYSDEV` brand
+- Hero with a decorative orbit graphic and a role/org/since/base readout card
+- Sections labelled like modules: 01 About, 02 Stack, 03 Missions, 04 Log, 05 Comms
+- Experience shown as a timeline log; contact as a full orange panel
+- Responsive, works without JavaScript, respects `prefers-reduced-motion`
 
 ## Project Structure
 
